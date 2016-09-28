@@ -1,0 +1,6 @@
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\bin\Debug\LibForTask4_2.dll
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\bin\Debug\LibForTask4_2.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\obj\Debug\LibForTask4_2.csprojResolveAssemblyReference.cache
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\obj\Debug\LibForTask4_2.dll
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\obj\Debug\LibForTask4_2.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\LibForTask4_2\bin\Debug\LibForTask4_2.dll.config

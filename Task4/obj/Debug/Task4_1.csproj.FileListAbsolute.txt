@@ -1,0 +1,6 @@
+C:\Users\Yauheniy_Kisialiou\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.exe.config
+C:\Users\Yauheniy_Kisialiou\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.exe
+C:\Users\Yauheniy_Kisialiou\documents\visual studio 2015\Projects\Task4\Task4\bin\Debug\Task4.pdb
+C:\Users\Yauheniy_Kisialiou\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.exe
+C:\Users\Yauheniy_Kisialiou\documents\visual studio 2015\Projects\Task4\Task4\obj\Debug\Task4.pdb
+C:\Users\Yauheniy_Kisialiou\Documents\Visual Studio 2015\Projects\Task4\Task4\obj\Debug\Task4_1.csprojResolveAssemblyReference.cache
